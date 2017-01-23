@@ -17,5 +17,7 @@ public class WeekLab2 {
      */
     public static void main(String[] args) {
     System.out.println("Hello World, my GitHub account name is hsmann07");
+    
+    System.out.println("IT! WORKS");
     }
     }
